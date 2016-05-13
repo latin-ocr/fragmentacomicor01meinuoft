@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fragmentacomicor01meinuoft_0002.png"; bbox 0 0 1702 3190; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 472 2119 1199 2152">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 472 2119 1199 2152">
+     <span class='ocr_line' id='line_1_1' title="bbox 472 2119 1199 2152; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 472 2119 599 2151; x_wconf 40' lang='lat' dir='ltr'>*imvm</span> <span class='ocrx_word' id='word_1_2' title='bbox 611 2120 647 2151; x_wconf 77' lang='lat' dir='ltr'>D</span> <span class='ocrx_word' id='word_1_3' title='bbox 691 2120 787 2151; x_wconf 54' lang='lat'>{1315}</span> <span class='ocrx_word' id='word_1_4' title='bbox 799 2120 939 2152; x_wconf 53' lang='lat' dir='ltr'>NRNG</span> <span class='ocrx_word' id='word_1_5' title='bbox 980 2120 1142 2152; x_wconf 45' lang='lat' dir='ltr'>§1155ss</span> <span class='ocrx_word' id='word_1_6' title='bbox 1154 2121 1199 2152; x_wconf 69' lang='lat' dir='ltr'>U..</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1702 3190">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1702 3190">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1702 3190; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1702 3190; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
